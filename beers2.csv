@@ -1,0 +1,6 @@
+BeerNum,BeerName,Style,Brewery,ABV,IBU,SRM,Status,BeerNameL
+Beer1,Catdog,Kolsch,Brewery,5.2,1,5,100,Catdog
+Beer2,Mild,Mild,Brewery,3.5,1,15,100,Mild
+Beer3,Liquid,Stout,Brewery,56.0,1,36,100,Liquid
+Beer4,NONE,NONE,Brewery,0.0,0,1,0,NONE
+Beer5,Saison,Saison,Brewery,5.5,1,5,100,Saison

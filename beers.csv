@@ -1,0 +1,6 @@
+BeerNum,BeerName,Style,Brewery,ABV,IBU,SRM,Status,BeerNameL
+Beer1,Catdog,Kolsch,Rockhart Brewery,5.2,1,5,75,BeerName
+Beer2,Mild,Mild,Rockhart Brewery,3.5,1,15,75,BeerName
+Beer3,Liquid Bliss,Peanut Butter Stout,Rockhart Brewery,5.6,1,36,100,BeerName
+Beer4,Orvalian Dreams,Belgian Brett Pale Ale,Rockhart Brewery,6.8,38,15,100,BeerName
+Beer5,Saison Du Tristan,Saison,Rockhart Brewery,5.5,1,5,100,BeerName
